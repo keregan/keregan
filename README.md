@@ -1,5 +1,4 @@
-![Header](https://freelance.ru/img/portfolio/pics/00/21/CA/2214477.jpg)
-
+![Header](https://github.com/keregan/keregan/blob/main/%D0%9B%D0%BE%D0%B3%D0%BE.png)
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F8C52C)
