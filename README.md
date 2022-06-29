@@ -1,4 +1,4 @@
-![Header](https://github.com/keregan/keregan/blob/main/%D0%B2%D0%BE%D0%BB%D0%BA.png)
+![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F8C52C)
