@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=003B57)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON&logoColor=9558B2)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=8286f5)
 
 
 ### Follow Me:
