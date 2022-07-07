@@ -14,8 +14,8 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexpuchenkov)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Keregan)
 
-### Languages git
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keregan)](https://github.com/anuraghazra/github-readme-stats)
+### Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keregan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Who said snakes don't bite?:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/keregan/keregan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
