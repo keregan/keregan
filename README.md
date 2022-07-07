@@ -17,5 +17,6 @@
 
 ![snake gif](https://github.com/keregan/keregan/blob/output/github-contribution-grid-snake.gif)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/keregan/keregan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/keregan/keregan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
