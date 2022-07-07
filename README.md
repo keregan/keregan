@@ -15,8 +15,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Keregan)
 
 
-![snake gif](https://github.com/keregan/keregan/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/keregan/keregan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/keregan/keregan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
