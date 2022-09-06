@@ -17,3 +17,4 @@
 ### Who said snakes don't bite?:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/keregan/keregan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
