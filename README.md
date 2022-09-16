@@ -7,8 +7,9 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![SQLite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=SQLite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=8286f5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=6A5ACD)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=6A5ACD)
+
 
 
 ### Follow Me:
