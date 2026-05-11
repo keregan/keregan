@@ -1,8 +1,6 @@
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
-# Hi, I'm Alexey 👋
-
-I am developing my skills in DevOps, infrastructure automation and backend development.
+Currently specializing in DevOps, infrastructure automation and backend development.
 
 Currently focused on:
 - Docker and Docker Compose
@@ -42,26 +40,22 @@ Currently focused on:
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 
----
-
-## Featured Project
-
-### DevOps Notes Lab
-
-A mini DevOps infrastructure project with Docker, Docker Compose, Redis, environment variables and a basic CI/CD pipeline.
-
-The project completed its primary development stage and is used as a local DevOps environment for testing containerization, CI/CD and infrastructure practices.
 
 ---
 
-## Currently Learning
+## Current Focus
 
+At the moment, I am deepening my knowledge in infrastructure automation, CI/CD processes and reducing human errors through automation tools and containerized environments.
+
+Main areas of interest:
 - Jenkins
-- Kubernetes basics
+- Kubernetes
 - Linux administration
 - CI/CD automation
-- Monitoring
+- Monitoring systems
 - Python for DevOps automation
+
+Interested in building solutions that help automate routine processes in projects and business environments.
 
 ---
 
