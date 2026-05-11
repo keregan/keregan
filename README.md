@@ -1,6 +1,7 @@
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
-Currently specializing in DevOps, infrastructure automation and backend development.
+Currently specializing in DevOps, infrastructure automation and backend development. 
+Interested in building solutions that help automate routine processes in projects and business environments.
 
 Currently focused on:
 - Docker and Docker Compose
@@ -20,7 +21,6 @@ Currently focused on:
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=GitLab&logoColor=FC6D26)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=DC382D)
-![PowerShell](https://img.shields.io/badge/-PowerShell-090909?style=for-the-badge&logo=PowerShell&logoColor=5391FE)
 
 ---
 
@@ -54,8 +54,6 @@ Main areas of interest:
 - CI/CD automation
 - Monitoring systems
 - Python for DevOps automation
-
-Interested in building solutions that help automate routine processes in projects and business environments.
 
 ---
 
