@@ -1,7 +1,11 @@
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
-Currently specializing in DevOps, infrastructure automation and backend development. 
-Interested in building solutions that help automate routine processes in projects and business environments.
+<h3 align="left">⚙️ DevOps • Infrastructure Automation • Backend</h3>
+
+<p align="left">
+Currently specializing in DevOps, infrastructure automation and backend development.<br>
+Focused on building automation solutions that improve reliability, scalability and reduce human errors.
+</p>
 
 Currently focused on:
 - Docker and Docker Compose
