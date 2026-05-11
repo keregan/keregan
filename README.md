@@ -1,33 +1,24 @@
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
-<h3 align="left">⚙️ DevOps • Infrastructure Automation • Backend</h3>
+<h2 align="left">⚙️ DevOps • Infrastructure Automation • Backend</h2>
 
 <p align="left">
-EN — Currently specializing in DevOps, infrastructure automation and backend development.<br>
+EN — Software Engineer currently specializing in DevOps, infrastructure automation and backend development.<br>
 Focused on building automation solutions that improve reliability, scalability and streamline routine business processes.
 <br><br>
-RU — На данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
+RU — Инженер-программист, на данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
 Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные бизнес-процессы.
 </p>
 
 ---
 
-## Current Focus | Текущий фокус
+## About Me
 
-<p align="left">
-EN — I am deepening my knowledge in infrastructure automation, CI/CD processes and containerized environments.
-<br><br>
-RU — Углубляюсь в автоматизацию инфраструктуры, CI/CD процессы и контейнеризированные окружения.
-</p>
-
-Main areas of interest:
-
-- Jenkins
-- Kubernetes
-- Linux administration
-- CI/CD automation
-- Monitoring systems
-- Python for DevOps automation
+- Working as a Software Engineer with a focus on automation and infrastructure-related solutions
+- Building practical projects around DevOps, CI/CD and infrastructure automation
+- Working with Docker, Docker Compose, Git, GitHub and GitLab CI/CD
+- Learning Jenkins, Kubernetes, Linux administration and monitoring tools
+- Interested in automation solutions for real projects and business processes
 
 ---
 
@@ -58,6 +49,7 @@ Main areas of interest:
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 
+---
 
 ## Follow Me
 
