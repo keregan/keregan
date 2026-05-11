@@ -4,10 +4,10 @@
 
 <p align="left">
 EN — Currently specializing in DevOps, infrastructure automation and backend development.<br>
-Focused on building automation solutions that improve reliability, scalability and streamline routine processes.
+Focused on building automation solutions that improve reliability, scalability and streamline routine business processes.
 <br><br>
 RU — На данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
-Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные процессы.
+Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные бизнес-процессы.
 </p>
 
 Currently focused on:
