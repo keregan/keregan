@@ -4,7 +4,7 @@
 
 <h4 align="left">
 Currently specializing in DevOps, infrastructure automation and backend development.<br>
-Focused on building automation solutions that improve reliability, scalability and reduce human errors.
+Focused on building automation solutions that improve reliability, scalability and streamline routine processes.
 </h4>
 
 Currently focused on:
