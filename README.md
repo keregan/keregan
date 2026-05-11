@@ -5,7 +5,8 @@
 <h4 align="left">
 EN — Currently specializing in DevOps, infrastructure automation and backend development.<br>
 Focused on building automation solutions that improve reliability, scalability and streamline routine processes.
-<br><br>
+<br><br></h4>
+<h4 align="left">
 RU — На данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
 Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные процессы.
 </h4>
