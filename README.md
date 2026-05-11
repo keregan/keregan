@@ -6,6 +6,10 @@
 Currently specializing in DevOps, infrastructure automation and backend development.<br>
 Focused on building automation solutions that improve reliability, scalability and streamline routine processes.
 </h4>
+<h4 align="left">
+На данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
+Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные процессы.
+</h4>
 
 Currently focused on:
 - Docker and Docker Compose
