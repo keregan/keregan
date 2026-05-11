@@ -2,7 +2,7 @@
 
 <h3 align="left">⚙️ DevOps • Infrastructure Automation • Backend</h3>
 
-<p align="left">
+<h4 align="left">
 Currently specializing in DevOps, infrastructure automation and backend development.<br>
 Focused on building automation solutions that improve reliability, scalability and reduce human errors.
 </p>
