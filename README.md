@@ -39,7 +39,6 @@ Main areas of interest:
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=GitLab&logoColor=FC6D26)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=DC382D)
-![PowerShell](https://img.shields.io/badge/-PowerShell-090909?style=for-the-badge&logo=PowerShell&logoColor=5391FE)
 
 ---
 
@@ -58,16 +57,6 @@ Main areas of interest:
 
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
-
----
-
-## Featured Project | Основной проект
-
-### DevOps Notes Lab
-
-A mini DevOps infrastructure project with Docker, Docker Compose, Redis, environment variables and a basic CI/CD pipeline.
-
-Мини-проект с DevOps-инфраструктурой на основе Docker, Docker Compose, Redis, переменных окружения и базового CI/CD pipeline.
 
 Project status: `v1.0 completed`
 
