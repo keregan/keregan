@@ -58,9 +58,6 @@ Main areas of interest:
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 
-Project status: `v1.0 completed`
-
----
 
 ## Follow Me
 
