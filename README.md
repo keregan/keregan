@@ -52,7 +52,11 @@ Currently focused on:
 
 ## Current Focus
 
-At the moment, I am deepening my knowledge in infrastructure automation, CI/CD processes and reducing human errors through automation tools and containerized environments.
+<p align="left">
+EN — At the moment, I am deepening my knowledge in infrastructure automation, CI/CD processes and reducing human errors through automation tools and containerized environments.
+<br><br>
+RU — На данный момент углубляюсь в автоматизацию инфраструктуры, CI/CD процессов и уменьшение количества ошибок с помощью инструментов автоматизации и контейнеризированных окружений.
+</p>
 
 Main areas of interest:
 - Jenkins
