@@ -3,8 +3,8 @@
 <h3 align="left">⚙️ DevOps • Infrastructure Automation • Backend</h3>
 
 <h4 align="left">
-Currently specializing in DevOps, infrastructure automation and backend development.<br>
-Focused on building automation solutions that improve reliability, scalability and streamline routine processes.
+Currently specializing in DevOps, infrastructure automation and backend development. | На данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
+Focused on building automation solutions that improve reliability, scalability and streamline routine processes. | Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные процессы.
 </h4>
 <h4 align="left">
 На данный момент специализируюсь на DevOps, автоматизации инфраструктуры и backend-разработке.<br>
