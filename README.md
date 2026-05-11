@@ -10,13 +10,24 @@ RU — На данный момент специализируюсь на DevOps
 Сфокусирован на создании решений для автоматизации, которые повышают надёжность, масштабируемость и упрощают рутинные бизнес-процессы.
 </p>
 
-Currently focused on:
-- Docker and Docker Compose
-- Git and GitHub workflow
-- CI/CD pipelines
-- Linux basics
-- infrastructure tools
-- backend and automation practice
+---
+
+## Current Focus | Текущий фокус
+
+<p align="left">
+EN — I am deepening my knowledge in infrastructure automation, CI/CD processes and containerized environments.
+<br><br>
+RU — Углубляюсь в автоматизацию инфраструктуры, CI/CD процессы и контейнеризированные окружения.
+</p>
+
+Main areas of interest:
+
+- Jenkins
+- Kubernetes
+- Linux administration
+- CI/CD automation
+- Monitoring systems
+- Python for DevOps automation
 
 ---
 
@@ -28,6 +39,7 @@ Currently focused on:
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=GitLab&logoColor=FC6D26)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=DC382D)
+![PowerShell](https://img.shields.io/badge/-PowerShell-090909?style=for-the-badge&logo=PowerShell&logoColor=5391FE)
 
 ---
 
@@ -47,24 +59,17 @@ Currently focused on:
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 
-
 ---
 
-## Current Focus
+## Featured Project | Основной проект
 
-<p align="left">
-EN — At the moment, I am deepening my knowledge in infrastructure automation, CI/CD processes and reducing human errors through automation tools and containerized environments.
-<br><br>
-RU — На данный момент углубляюсь в автоматизацию инфраструктуры, CI/CD процессов и уменьшение количества ошибок с помощью инструментов автоматизации и контейнеризированных окружений.
-</p>
+### DevOps Notes Lab
 
-Main areas of interest:
-- Jenkins
-- Kubernetes
-- Linux administration
-- CI/CD automation
-- Monitoring systems
-- Python for DevOps automation
+A mini DevOps infrastructure project with Docker, Docker Compose, Redis, environment variables and a basic CI/CD pipeline.
+
+Мини-проект с DevOps-инфраструктурой на основе Docker, Docker Compose, Redis, переменных окружения и базового CI/CD pipeline.
+
+Project status: `v1.0 completed`
 
 ---
 
