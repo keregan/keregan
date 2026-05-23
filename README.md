@@ -64,7 +64,6 @@
 - Linux administration
 - Monitoring and logging
 - CI/CD automation
-- Production deployment practices
 
 ---
 
@@ -83,6 +82,101 @@ Examples:
 - Telegram/API integrations
 - Dockerized backend applications
 - infrastructure-related internal tools
+
+---
+
+## Featured Projects / Избранные проекты
+
+### ChatGPT DevLog Telegram Bridge
+
+EN — A FastAPI-based service for publishing devlog posts from ChatGPT to a Telegram channel through a custom API endpoint and GPT Action.
+
+RU — Сервис на FastAPI для публикации devlog-постов из ChatGPT в Telegram-канал через собственный API endpoint и GPT Action.
+
+**What problem it solves / Какую проблему решает:**  
+EN — Automates manual devlog publishing and turns it into a simple backend pipeline.  
+RU — Автоматизирует ручную публикацию devlog-постов и превращает её в понятный backend-pipeline.
+
+```text
+ChatGPT → GPT Action → FastAPI → Telegram Bot API → Telegram channel
+```
+
+**Key features / Основные возможности:**
+
+- FastAPI backend
+- Telegram Bot API integration
+- GPT Action integration through OpenAPI schema
+- Docker and Docker Compose deployment
+- Caddy reverse proxy
+- HTTPS deployment on VPS
+- GitHub Actions CI
+- Pytest tests
+- Docker healthcheck
+- Environment-based configuration
+- Secure handling of production settings
+
+**Tech stack:**  
+`Python` `FastAPI` `Docker` `Docker Compose` `Caddy` `OpenAPI` `Telegram Bot API` `GitHub Actions` `Pytest`
+
+[Repository](https://github.com/keregan/chatgpt-devlog-telegram-bridge)
+
+---
+
+### AutoInfra File Processor
+
+EN — A file automation service for processing, sorting, backup creation and logging.
+
+RU — Сервис автоматизации обработки, сортировки, резервного копирования файлов и ведения логов.
+
+**What problem it solves / Какую проблему решает:**  
+EN — Reduces manual work with files in office, engineering and business workflows.  
+RU — Уменьшает ручную работу с файлами в офисных, инженерных и бизнес-процессах.
+
+**Key features / Основные возможности:**
+
+- automatic file scanning
+- file type detection
+- file sorting
+- backup creation
+- processing logs
+- environment-based configuration
+- Docker support
+- Docker Compose support
+- CI/CD-ready structure
+
+**Tech stack:**  
+`Python` `Docker` `Docker Compose` `Logging` `Environment Variables` `CI/CD`
+
+[Repository](https://github.com/keregan/autoinfra-file-processor)
+
+---
+
+### DevOps Notes Lab
+
+EN — A structured DevOps knowledge base with notes, commands and hands-on practice.
+
+RU — Структурированная база для изучения DevOps: заметки, команды и практические задания.
+
+**What problem it solves / Какую проблему решает:**  
+EN — Helps organize DevOps learning progress and keep practical materials in one place.  
+RU — Помогает системно вести развитие в DevOps и хранить команды, заметки и практику в одном репозитории.
+
+**Topics / Темы:**
+
+- Git
+- Linux basics
+- Docker
+- Docker Compose
+- CI/CD
+- infrastructure notes
+- command practice
+
+**Tech stack:**  
+`Git` `Linux` `Docker` `Docker Compose` `CI/CD` `Markdown`
+
+[Repository](https://github.com/keregan/devops-notes-lab)
+
+---
 
 ## Contact / Контакты
 
