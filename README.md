@@ -1,10 +1,14 @@
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
-<h2 align="left"> I'm Alexey </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=I'm%20Alexey&fontSize=32&fontColor=A855F7&fontAlign=50&fontAlignY=50" alt="I'm Alexey" />
+</p>
 
-<h3 align="left">Software Engineer • DevOps • Backend • Infrastructure Automation</h3>
-
----
+<p align="center">
+  <a href="https://github.com/keregan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=3000&color=A855F7&center=true&vCenter=true&width=1000&height=45&lines=Software+Engineer+%E2%80%A2+DevOps+%E2%80%A2+Backend+%E2%80%A2+Infrastructure+Automation;Blogger+and+just+a+good+person..." alt="Typing SVG" />
+  </a>
+</p>
 
 ## EN
 
