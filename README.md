@@ -1,3 +1,13 @@
+## Contribution Graph / Активность
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keregan/keregan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keregan/keregan/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/keregan/keregan/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
 <p align="center">
