@@ -18,21 +18,17 @@
   <a href="https://vk.com/alexpuchenkov"><img src="https://img.shields.io/badge/VK-0D1117?style=for-the-badge&logo=vk&logoColor=A855F7" alt="VK" /></a>
 </p>
 
-## EN
+## About Me / Обо мне
 
-- I am a Software Engineer focused on backend development, DevOps practices and infrastructure automation.
-- I build API services, automation tools, Docker-based deployments and CI/CD workflows.  
-- I am interested in projects where software helps reduce manual work, connect different systems and make infrastructure easier to maintain.
-- Currently, I am improving my skills in Jenkins, Kubernetes, Linux administration, monitoring and production-ready deployment practices.
+**EN**
+- Software Engineer focused on backend development, DevOps practices and infrastructure automation.
+- I build API services, automation tools, Docker-based deployments and CI/CD workflows.
+- Interested in practical systems that reduce manual work and simplify infrastructure maintenance.
 
----
-
-## RU
-
-- Я инженер-программист с фокусом на backend-разработку, DevOps-практики и автоматизацию инфраструктуры.
-- Создаю API-сервисы, инструменты автоматизации, Docker-deployment и CI/CD-процессы.  
-- Мне интересны проекты, где программирование помогает уменьшать ручную работу, связывать разные системы между собой и упрощать сопровождение инфраструктуры.
-- Сейчас развиваю навыки в Jenkins, Kubernetes, Linux-администрировании, мониторинге и production-подходах к деплою.
+**RU**
+- Инженер-программист с фокусом на backend-разработку, DevOps-практики и автоматизацию инфраструктуры.
+- Создаю API-сервисы, инструменты автоматизации, Docker-deployment и CI/CD-процессы.
+- Интересны практичные системы, которые уменьшают ручную работу и упрощают сопровождение инфраструктуры.
 
 ---
 
