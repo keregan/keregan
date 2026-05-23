@@ -36,36 +36,51 @@
 
 ---
 
-## DevOps & Infrastructure
+## Tech Stack / Технологии
 
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-090909?style=for-the-badge&logo=GitLab&logoColor=FC6D26)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-090909?style=for-the-badge&logo=GitHubActions&logoColor=2088FF)
-![Caddy](https://img.shields.io/badge/-Caddy-090909?style=for-the-badge&logo=Caddy&logoColor=1F88C0)
-![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=009639)
+<table width="100%">
+  <tr>
+    <td width="240" align="left" valign="middle">
+      <b>DevOps & Infrastructure</b>
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
+      <img src="https://img.shields.io/badge/Caddy-0D1117?style=flat-square&logo=caddy&logoColor=A855F7" />
+      <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=009639" />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="240" align="left" valign="middle">
+      <b>Backend & Databases</b>
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57" />
+      <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D" />
+    </td>
+  </tr>
 
-## Backend & Databases
-
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=009688)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=44B78B)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=003B57)
-![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=DC382D)
-
----
-
-## Additional Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+  <tr>
+    <td width="240" align="left" valign="middle">
+      <b>Additional Technologies</b>
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+      <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=6296CC" />
+    </td>
+  </tr>
+</table>
 
 ---
 
