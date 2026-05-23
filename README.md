@@ -1,11 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/keregan/.github/main/assets/learning-progress.svg" width="850"/>
-
-<img src="https://raw.githubusercontent.com/keregan/.github/main/assets/learning-progress.svg" width="850"/>
-
-<img src="https://raw.githubusercontent.com/keregan/.github/master/assets/learning-progress.svg" width="850"/>
-
-
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
 <p align="center">
@@ -92,13 +84,7 @@
 
 ---
 
-## Currently Learning / Сейчас изучаю
-
-- Jenkins
-- Kubernetes
-- Linux administration
-- Monitoring and logging
-- CI/CD automation
+<img src="https://raw.githubusercontent.com/keregan/keregan/main/.github/assets/learning-progress.svg" width="850"/>
 
 ---
 
