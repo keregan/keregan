@@ -1,0 +1,73 @@
+<svg width="850" height="360" viewBox="0 0 850 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="360">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="bar" x1="0" y1="0" x2="500" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#A3E635"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="850" height="360" rx="24" fill="url(#bg)"/>
+
+  <text x="40" y="55" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Currently Learning / Сейчас изучаю
+  </text>
+
+  <text x="40" y="95" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    DevOps learning progress
+  </text>
+
+  <!-- Jenkins -->
+  <text x="40" y="145" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Jenkins</text>
+  <text x="755" y="145" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">40%</text>
+  <rect x="260" y="128" width="460" height="16" rx="8" fill="#1E293B"/>
+  <rect x="260" y="128" width="0" height="16" rx="8" fill="url(#bar)" filter="url(#glow)">
+    <animate attributeName="width" values="0;184;184;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Kubernetes -->
+  <text x="40" y="185" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Kubernetes</text>
+  <text x="755" y="185" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">20%</text>
+  <rect x="260" y="168" width="460" height="16" rx="8" fill="#1E293B"/>
+  <rect x="260" y="168" width="0" height="16" rx="8" fill="url(#bar)" filter="url(#glow)">
+    <animate attributeName="width" values="0;92;92;0" dur="5s" begin="0.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Linux -->
+  <text x="40" y="225" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Linux administration</text>
+  <text x="755" y="225" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">55%</text>
+  <rect x="260" y="208" width="460" height="16" rx="8" fill="#1E293B"/>
+  <rect x="260" y="208" width="0" height="16" rx="8" fill="url(#bar)" filter="url(#glow)">
+    <animate attributeName="width" values="0;253;253;0" dur="5s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Monitoring -->
+  <text x="40" y="265" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Monitoring and logging</text>
+  <text x="755" y="265" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">30%</text>
+  <rect x="260" y="248" width="460" height="16" rx="8" fill="#1E293B"/>
+  <rect x="260" y="248" width="0" height="16" rx="8" fill="url(#bar)" filter="url(#glow)">
+    <animate attributeName="width" values="0;138;138;0" dur="5s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- CI/CD -->
+  <text x="40" y="305" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">CI/CD automation</text>
+  <text x="755" y="305" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">60%</text>
+  <rect x="260" y="288" width="460" height="16" rx="8" fill="#1E293B"/>
+  <rect x="260" y="288" width="0" height="16" rx="8" fill="url(#bar)" filter="url(#glow)">
+    <animate attributeName="width" values="0;276;276;0" dur="5s" begin="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
