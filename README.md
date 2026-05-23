@@ -10,6 +10,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://t.me/Keregan"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=A855F7" alt="Telegram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/wolfphase"><img src="https://img.shields.io/badge/Life%20Blog-0D1117?style=for-the-badge&logo=telegram&logoColor=A855F7" alt="Life Blog" /></a>
+  &nbsp;&nbsp;
+  <a href="https://vk.com/alexpuchenkov"><img src="https://img.shields.io/badge/VK-0D1117?style=for-the-badge&logo=vk&logoColor=A855F7" alt="VK" /></a>
+</p>
+
 ## EN
 
 - I am a Software Engineer focused on backend development, DevOps practices and infrastructure automation.
@@ -78,12 +86,6 @@
 | [**ChatGPT DevLog Telegram Bridge**](https://github.com/keregan/chatgpt-devlog-telegram-bridge)<br><br>EN — FastAPI service for publishing devlog posts from ChatGPT to Telegram through GPT Action.<br>RU — Сервис на FastAPI для публикации devlog-постов из ChatGPT в Telegram через GPT Action.<br><br>**Solves / Решает:**<br>EN — Automates manual devlog publishing and turns it into a backend pipeline.<br>RU — Автоматизирует ручную публикацию devlog-постов и превращает её в backend-pipeline.<br><br>**Tech / Технологии:** `Python` `FastAPI` `Docker` `Docker Compose` `Caddy` `OpenAPI` `GitHub Actions` `Pytest` | [**DevOps Notes Lab**](https://github.com/keregan/devops-notes-lab)<br><br>EN — Structured DevOps learning repository with notes, commands and practical exercises.<br>RU — Репозиторий для изучения DevOps с заметками, командами и практическими заданиями.<br><br>**Solves / Решает:**<br>EN — Keeps DevOps learning progress organized in one place.<br>RU — Помогает системно вести обучение DevOps и хранить практику в одном месте.<br><br>**Tech / Технологии:** `Git` `Linux` `Docker` `Docker Compose` `CI/CD` `Markdown` |
 | [**AutoInfra File Processor**](https://github.com/keregan/autoinfra-file-processor)<br><br>EN — Automation service for file processing, sorting, backup creation and logging.<br>RU — Сервис автоматизации обработки, сортировки, резервного копирования файлов и ведения логов.<br><br>**Solves / Решает:**<br>EN — Reduces manual work with files in office, engineering and business workflows.<br>RU — Уменьшает ручную работу с файлами в офисных, инженерных и бизнес-процессах.<br><br>**Tech / Технологии:** `Python` `Docker` `Docker Compose` `Logging` `Environment Variables` `CI/CD` | [**Console Task Tracker**](https://github.com/keregan/Console_task_tracker)<br><br>EN — Console-based task tracker with saving and loading tasks from a file.<br>RU — Консольный трекер задач с сохранением и загрузкой задач из файла.<br><br>**Solves / Решает:**<br>EN — Provides a simple local task-management tool from the command line.<br>RU — Даёт простой локальный инструмент для управления задачами через консоль.<br><br>**Tech / Технологии:** `C#` `.NET` `Console App` `File I/O` |
 
----
-
-## Contact / Контакты
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Keregan)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexpuchenkov)
 
 ---
 
