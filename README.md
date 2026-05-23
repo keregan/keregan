@@ -1,4 +1,10 @@
-<img src="./assets/learning-progress.svg" width="850"/>
+
+<img src="https://raw.githubusercontent.com/keregan/.github/main/assets/learning-progress.svg" width="850"/>
+
+<img src="https://raw.githubusercontent.com/keregan/.github/main/assets/learning-progress.svg" width="850"/>
+
+<img src="https://raw.githubusercontent.com/keregan/.github/master/assets/learning-progress.svg" width="850"/>
+
 
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
