@@ -1,3 +1,5 @@
+<img src="./assets/learning-progress.svg" width="850"/>
+
 ![Header](https://github.com/keregan/keregan/blob/main/wolf.png)
 
 <p align="center">
