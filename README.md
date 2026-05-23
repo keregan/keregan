@@ -1,4 +1,4 @@
-## Contribution Graph / Активность
+## Contribution Graph / Активность 1
 
 <p align="center">
   <picture>
