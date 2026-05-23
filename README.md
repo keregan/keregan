@@ -110,15 +110,3 @@ EN — Open to backend, DevOps and infrastructure automation opportunities.
 <p align="left">
 RU — Открыт к задачам и проектам в backend-разработке, DevOps и автоматизации инфраструктуры.
 </p>
-
----
-
-## Contribution Graph / Активность
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keregan/keregan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keregan/keregan/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/keregan/keregan/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
