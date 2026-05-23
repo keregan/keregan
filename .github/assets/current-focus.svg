@@ -1,0 +1,96 @@
+<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="850" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="accent2" x1="0" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="849" height="279" rx="24" fill="url(#bg2)" stroke="#1F2937"/>
+
+  <text x="40" y="52" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Current Focus / Текущий фокус
+  </text>
+
+  <text x="40" y="84" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    Areas I am actively developing right now
+  </text>
+
+  <!-- Card 1 -->
+  <rect x="40" y="115" width="180" height="110" rx="18" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="65" cy="142" r="6" fill="#22C55E" filter="url(#glow2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="82" y="147" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    API Services
+  </text>
+  <text x="40" y="178" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    FastAPI, integration
+  </text>
+  <text x="40" y="198" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    and backend logic
+  </text>
+
+  <!-- Card 2 -->
+  <rect x="240" y="115" width="180" height="110" rx="18" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="265" cy="142" r="6" fill="#22C55E" filter="url(#glow2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="282" y="147" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    DevOps
+  </text>
+  <text x="240" y="178" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Automation of routine
+  </text>
+  <text x="240" y="198" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    processes and workflows
+  </text>
+
+  <!-- Card 3 -->
+  <rect x="440" y="115" width="180" height="110" rx="18" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="465" cy="142" r="6" fill="#22C55E" filter="url(#glow2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="482" y="147" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    CI/CD
+  </text>
+  <text x="440" y="178" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Pipelines, delivery,
+  </text>
+  <text x="440" y="198" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    deployment practices
+  </text>
+
+  <!-- Card 4 -->
+  <rect x="640" y="115" width="170" height="110" rx="18" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="665" cy="142" r="6" fill="#22C55E" filter="url(#glow2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="682" y="147" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    Docker
+  </text>
+  <text x="640" y="178" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Containers, compose
+  </text>
+  <text x="640" y="198" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    and local infrastructure
+  </text>
+
+  <rect x="40" y="238" width="180" height="4" rx="2" fill="url(#accent2)">
+    <animate attributeName="width" values="0;180;180" dur="1.5s" fill="freeze"/>
+  </rect>
+</svg>
